@@ -39,7 +39,7 @@ export declare const SearchBox: import("vue").DefineComponent<{
         default: number;
     };
 }>>, {
-    locales: SearchBoxLocales;
     hotKeys: (string | HotKeyOptions)[];
     maxSuggestions: number;
+    locales: SearchBoxLocales;
 }>;

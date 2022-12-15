@@ -30,8 +30,8 @@ export default defineUserConfig({
   locales: {
     '/': {
       lang: 'en-US',
-      title: 'DTx CT',
-      description: 'WELT-powered Clinician\'s Dashboard',
+      title: 'VuePress',
+      description: 'Vue-powered Static Site Generator',
     },
     '/zh/': {
       lang: 'zh-CN',

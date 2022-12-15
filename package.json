@@ -1,6 +1,6 @@
 {
-  "name": "dta-ct-doc",
-  "version": "0.1.0-alpha.1",
+  "name": "@vuepress/monorepo",
+  "version": "2.0.0-beta.59",
   "private": true,
   "type": "module",
   "scripts": {
